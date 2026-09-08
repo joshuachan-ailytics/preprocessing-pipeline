@@ -1,4 +1,4 @@
-# Personal Google Drive File Copier
+# Preprocessing Pipeline
 
 A personal setup for copying and managing files between Google Drive locations using [rclone](https://rclone.org/).
 
